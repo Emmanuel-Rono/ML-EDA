@@ -29,7 +29,7 @@ Step4: creating  a linear regression model and fit it using the existing data.
     model.fit(x, y)
     model = LinearRegression().fit(x, y)
   Step5:The result of the fitted Model
-  
+  .....
       Command:
       Score = model.score(x, y)
       print(f"coefficient of determination: {Score}")
